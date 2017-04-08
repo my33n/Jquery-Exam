@@ -1,0 +1,54 @@
+.form-vl{
+	background: #555 url(../images/ddd.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+
+}
+.pull-center{
+	display: block;
+}
+.fv{
+	margin: 0 auto;
+	float: none;
+	margin-top: 7em;
+	border: 1px solid;
+	padding: 10px;
+	text-align: center;
+	background: rgba(20, 5, 12, 0.50);
+}
+.fv h3{
+	padding: 15px 0;
+	display: block;
+	overflow: hidden;
+}
+.fv label{
+	color: #fff;
+	font-size: 22px;
+}
+.images img{
+	max-width: 90%;
+}
+.trp{
+	color: transparent;
+}
+.shw{
+	color: red;
+}
+#psw_info, #name_info{
+	font-size: 18px;
+	font-weight: bold;
+	background-color: #fff;
+	border-radius: 6px;
+
+}
+.pull-center input{
+	background-color: lightblue;
+	font-size: 18px;
+	font-weight: bold;
+}
+.btn-default{
+	font-weight: bolder;
+	margin: 10px 15px;
+	letter-spacing: 2px;
+}
